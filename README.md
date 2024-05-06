@@ -29,7 +29,7 @@ To run this project, you will need to install the following libraries
 
 MIT License
 
-Copyright (c) 2023 Carreño Limones André, Cordero Martinez Ileana Angélica, Gutierrez Preza Diego, Pineda Migranas Angel Uriel
+Copyright (c) 2024 Carreño Limones André, Cordero Martinez Ileana Angélica, Gutierrez Preza Diego, Pineda Migranas Angel Uriel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
